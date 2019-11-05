@@ -67,7 +67,7 @@ composer require jgrossi/corcel
 
 ### <a name="config-auto-discovery"></a> Laravel 5.5 and newer
 
-Corcel wil register itself using Laravel's [Auto Discovery](https://laravel.com/docs/5.5/packages#package-discovery).
+Corcel will register itself using Laravel's [Auto Discovery](https://laravel.com/docs/5.5/packages#package-discovery).
 
 ### <a name="config-service-loader"></a> Laravel 5.4 and older
 
